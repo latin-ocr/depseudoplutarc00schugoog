@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./depseudoplutarc00schugoog_0025.png"; bbox 0 0 4725 5742; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 330 1754 4010 5260">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 330 1754 4010 5260">
+     <span class='ocr_line' id='line_1_1' title="bbox 330 1754 4010 5260; textangle 180"><span class='ocrx_word' id='word_1_1' title='bbox 330 1754 4010 5260; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 362 1516 4056 1634">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 362 1516 4056 1634">
+     <span class='ocr_line' id='line_1_2' title="bbox 362 1516 4056 1634; baseline -0.001 -20"><span class='ocrx_word' id='word_1_2' title='bbox 362 1533 421 1614; x_wconf 91' lang='lat'><strong>1.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 474 1530 589 1614; x_wconf 66' lang='grc' dir='ltr'><strong>ὓίε</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 637 1516 943 1634; x_wconf 65' lang='grc' dir='ltr'><strong>ἱῖῦπιῖιῐιί</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 989 1531 1133 1613; x_wconf 72' lang='grc' dir='ltr'><strong>ιὶῦεε</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1171 1532 1270 1614; x_wconf 71' lang='lat' dir='ltr'><strong>:stc</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1313 1531 1612 1634; x_wconf 57' lang='lat' dir='ltr'><strong>einssvtnm</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1646 1530 2197 1633; x_wconf 58' lang='lat' dir='ltr'><strong>&amp;sumammuh</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 2247 1532 2383 1613; x_wconf 71' lang='lat' dir='ltr'><strong>mus</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 2423 1532 2521 1613; x_wconf 73' lang='grc' dir='ltr'><strong>ιῑίο</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 2553 1532 2659 1631; x_wconf 66' lang='lat' dir='ltr'><strong>fnit</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 2693 1530 2867 1634; x_wconf 60' lang='lat' dir='ltr'><strong>icam</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 2901 1528 3203 1630; x_wconf 73' lang='grc' dir='ltr'><strong>ιῑιῑῐοῑῦειι</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 3235 1526 3565 1630; x_wconf 70' lang='grc' dir='ltr'><strong>ΕεΙῑίιππιίι</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 3600 1524 4056 1629; x_wconf 61' lang='lat' dir='ltr'><strong>stammam.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1264 988 3178 1132">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1264 988 3178 1132">
+     <span class='ocr_line' id='line_1_3' title="bbox 1264 988 3178 1132; baseline -0.006 -23"><span class='ocrx_word' id='word_1_16' title='bbox 1264 990 1407 1128; x_wconf 62' lang='lat' dir='ltr'><strong>{lit</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 1477 990 1913 1129; x_wconf 65' lang='lat' dir='ltr'><strong>aflatmtiut</strong></span> <span class='ocrx_word' id='word_1_18' title='bbox 1980 990 2605 1132; x_wconf 53' lang='lat' dir='ltr'><strong>&amp;artmannus</strong></span> <span class='ocrx_word' id='word_1_19' title='bbox 2676 991 2811 1106; x_wconf 67' lang='lat' dir='ltr'><strong>brt</strong></span> <span class='ocrx_word' id='word_1_20' title='bbox 2878 988 3178 1127; x_wconf 68' lang='grc' dir='ltr'><strong>Ξᾱιιιιτ.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

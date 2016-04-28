@@ -1,0 +1,24 @@
+17
+
+quidem Schoemannus sollerter demonstravit Plutarchum in describendis Agidis et Cleomenis vitis Phylarchum
+secutum esse. Sed non opus est? statuere ea, quae Plutarchus ibi narravit e Phylarcho ipso hausta esse3
+nam potest ut aliorum libri, ipsi e Phylarcho derivati, a Plutarcho usurpati sint. Fortasse etiam in
+aliis libris a Plutarcho conscriptis nisi temporum iniuria permulta veterum scriptorum opera periissent,
+nonnulla ex aliorum scriptis verbotenus desumpta videremus. Atque id verisimillimum esse nostris diebus
+omnes fere, qui quibus fontibus Plutarchus usus videatur accuratius disputaverunt, concedunt. Ct'r. G.
+Gilbertus (Stud. ad. vet. hist. Laced. Gotting. p. 96), qui etiam ea, quae Plutarchi ipsius, non aliorum
+esse videantur, saepenumero verbotenus ex aliorum libris transscripta esse dicit (Ct'r. Rose Aristot. pseudepigr.
+p. 712). In eandem sententiam etiam disputavit Trieber (Quaestt. de rep. administr. Laced. p. 65),
+qui Plutarchum eius scriptoris, e cuius libris in singulis vitis verbotenus res transscripserit, ne mentionem
+quidem facere solere dicit. Cuius vero fuerit maius illud opus, unde et vita Lycurgi et libellus de
+institutis Laconicis manaverunt, in altera parte huius disputationis videbimus. Sed verisimillimum est, id
+
+quod etiam Fluegelius opinatur (Cfr. l.l. p. 17), apophthegmata quoque, quatenus quidem ad Lacedaemonios
+pertinent magnam partem eidem auctori tribuenda esse, cui instituta.
+
+Facile autem fieri poterat, ut et instituta et apophthegmata Laconica posteris temporibus, cum
+maius illud opus, unde ea repetita videantur periiset, ad Plutarchum reserrentur, quae cum ad quem
+vocanda essent grammatici ignorarent Chaeroneensi tribuerunt, quippe qui partim eadem libris suis exhiberet.
+
+mv -o ‘'WVWVWVVVVVS
+
